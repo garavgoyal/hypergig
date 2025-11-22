@@ -6,7 +6,7 @@ README.md (Final GitHub Version)
 [![Frontend](https://img.shields.io/badge/frontend-React%20%2B%20Vite-61dafb)](https://react.dev/)
 [![Backend](https://img.shields.io/badge/backend-Node.js%20%2F%20Python%20(Future)-orange)]()
 [![Architecture](https://img.shields.io/badge/architecture-Microservices%2FAI%20Scoring-blue)]()
-[![Platform](https://img.shields.io/badge/platform-Gig%20Economy%20%2F%20Fintech-purple)]()
+[![Platform](logo.png)]()
 
 <br />
 
