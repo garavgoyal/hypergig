@@ -15,9 +15,7 @@ Project Demo: https://drive.google.com/drive/folders/1MeMf9--bYLPAQPPA1_d1MXMPlc
 <br />
 
 <div align="center">
-  <a href="#">
-    <img src="public/logo.png" alt="HyperGig+ Logo" width="120" height="120">
-  </a>
+
 
   <h1 align="center"><strong>HyperGig+</strong></h1>
   <p align="center"><i>A Gig-Economy Native Digital Banking & Scoring Infrastructure</i></p>
